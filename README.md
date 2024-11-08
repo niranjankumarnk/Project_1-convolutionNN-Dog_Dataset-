@@ -1,4 +1,5 @@
-# Project_1-convolutionNN  [Checkout full detail in this report](https://www.researchgate.net/publication/382104475_Detection_of_Cardiomegaly_in_Dogs_through_CNNs_Comparative_Analysis_with_VGG-16_Model)
+# Project_1-convolutionNN  
+### **Checkout full detail in this report [Click link]**(https://www.researchgate.net/publication/382104475_Detection_of_Cardiomegaly_in_Dogs_through_CNNs_Comparative_Analysis_with_VGG-16_Model)
 ## Usage
 - [Download the labeled training, validation, and unlabeled test dataset here.](https://yuad-my.sharepoint.com/personal/youshan_zhang_yu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyoushan%5Fzhang%5Fyu%5Fedu%2FDocuments%2FDog%5FX%5Fray&ga=1)
 
